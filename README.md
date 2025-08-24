@@ -14,7 +14,7 @@ TeenThrive is an AI-powered platform that helps teenagers develop independence t
 
 - **🤖 AI Independence Coach**: Real-time personalized guidance using Google Gemini AI (gemini-2.0-flash-exp)
 - **🎮 Gamified Skill Challenges**: Interactive scenarios with difficulty levels 1-5
-- **👥 Anonymous Peer Support**: WebSocket-powered chat rooms with real-time messaging
+- **👥 Anonymous Peer Support**: Coming Soon - WebSocket-powered chat rooms with real-time messaging
 - **📊 Progress Tracking**: Visual skill development metrics and achievement system
 - **🔒 Session-Based Privacy**: No permanent data storage - complete privacy protection
 - **📄 Exportable Summaries**: Download session progress and certificates locally
@@ -209,11 +209,11 @@ teenthrive/
 - **Achievement System**: Track completed challenges and skill progression
 
 ### 3. Peer Support (`PeerChat.tsx`)
-- **Anonymous Chat Rooms**: Topic-based rooms with random usernames
-- **Real-Time Messaging**: WebSocket-powered instant communication
-- **Room Management**: Create, join, and delete chat rooms
-- **Privacy Features**: No message history stored, session-based connections
-- **Community Guidelines**: Built-in moderation and safety features
+- **Coming Soon Feature**: Anonymous chat rooms by topic
+- **Preview Interface**: Shows planned features and alternatives
+- **Future Capabilities**: Real-time messaging, room management, community guidelines
+- **Privacy-First Design**: No message history stored, session-based connections
+- **Current Alternatives**: AI Coach social scenarios, skill challenges, resource links
 
 ### 4. Progress Tracking (`SessionProgress.tsx` + Dashboard)
 - **Skill Development Metrics**: Visual progress bars and achievement badges
@@ -245,6 +245,7 @@ teenthrive/
 ## 🔮 Future Enhancements
 
 ### Planned Features (Phase 2)
+- **Peer Chat Launch**: Anonymous topic-based chat rooms with real-time messaging
 - **Voice Integration**: Hands-free AI coaching with speech recognition
 - **Advanced Skill Assessment**: More sophisticated progress tracking algorithms  
 - **Mentor Connection**: Connect with verified young adult mentors
